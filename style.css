@@ -75,6 +75,7 @@ form button {
   padding: 15px 5px;
   font-size: 20px;
   cursor: pointer;
+  color: #0e0e0e;
   border: none;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
 }
